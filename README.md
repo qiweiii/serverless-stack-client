@@ -48,3 +48,10 @@ Serverless Stack is authored and maintained by Frank Wang ([@fanjiewang](https:/
 [Email]: mailto:contact@anoma.ly
 
 
+#### Qiwei's Notes
+
+- Can be changed to material design with mdn react bootstrap material ui kit
+- Or rebuilt the whole client using material UI directly (like what i did with my website)
+- Need to change config.js before using
+
+
